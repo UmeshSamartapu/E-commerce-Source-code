@@ -100,9 +100,12 @@ npm start
 ## 🛠 Step-by-Step Guide
 
 ### 📀 1. Project Setup
-Initialize React and TailwindCSS
-Set up React Router
-Design the Header with Search, Cart, and Login Icons
+
+#### Initialize React and TailwindCSS
+
+#### Set up React Router
+
+#### Design the Header with Search, Cart, and Login Icons
 
 ### 📁 2. User Authentication
 Create Login and Signup pages
@@ -160,10 +163,15 @@ To deploy your own version:
 ##  🌟 Future Enhancements
 
 ✔️ Dark Mode UI
+
 ✔️ Wishlist Feature
+
 ✔️ Product Ratings & Reviews
+
 ✔️ Order Tracking System
+
 ✔️ Admin Order Management
+
 ✔️ Email Notifications for Orders
 
 
