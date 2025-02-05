@@ -8,7 +8,7 @@ A fully responsive e-commerce web application built using the MERN stack, Redux,
 
 **MERN Stack:** MongoDB, Express, React, Node.js
 
-**User Authentication: ** JWT-based login/signup
+**User Authentication:** JWT-based login/signup
 
 Redux for State Management
 
@@ -31,65 +31,59 @@ Order History & User Profile Management
 ## 📌 Tech Stack
 
 **Frontend:**
-
 React.js
-
 Redux
-
 TailwindCSS
-
 React Router
-
 Axios
 
 **Backend:**
-
 Node.js
-
 Express.js
-
 MongoDB
-
 Mongoose
-
 JWT Authentication
-
 Cloudinary for image hosting
-
 Stripe for payments
 
 ## 📂 Project Setup
 
 ### 1️⃣ Clone the Repository
 
+```bash
 git clone https://github.com/your-username/mern-ecommerce.git
 cd mern-ecommerce
+```
 
 ### 2️⃣ Install Dependencies
 
 Server
-
+```bash
 cd server
 npm install
+```
 
 Client
-
+```bash
 cd client
 npm install
+```
 
 ### 3️⃣ Configure Environment Variables
 
-Create a .env file in the server folder and add:
+**Create a .env file in the server folder and add:**
 
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 CLOUDINARY_URL=your_cloudinary_url
 STRIPE_SECRET_KEY=your_stripe_key
+```
 
 ### 4️⃣ Run the Application
 
-Start the Backend Server
+**Start the Backend Server**
 
 ```bash
 cd server
