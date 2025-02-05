@@ -101,55 +101,80 @@ npm start
 
 ### 📀 1. Project Setup
 
-#### Initialize React and TailwindCSS
+Initialize React and TailwindCSS
 
-#### Set up React Router
+Set up React Router
 
-#### Design the Header with Search, Cart, and Login Icons
+Design the Header with Search, Cart, and Login Icons
 
 ### 📁 2. User Authentication
+
 Create Login and Signup pages
+
 Implement JWT authentication with Express & MongoDB
+
 Secure API routes using middleware
 
 ### 📖 3. Backend Setup
 
 Install Node.js, Express.js, and Mongoose
+
 Create User Model and Authentication API
+
 Implement login, signup, and user profile endpoints
 
 ### 🛠️ 4. Redux for State Management
+
 Setup Redux store
+
 Implement user authentication state management
+
 Create actions and reducers for users, products, and cart
 
 ### 👤 5. Admin Panel
+
 Implement admin dashboard
+
 Display, update, and manage users
+
 Upload and update products
 
 ### 📝 6. Product Management
+
 Fetch products from MongoDB
+
 Display product details with dynamic pages
+
 Implement add-to-cart functionality
 
 ### 🛋️ 7. Image Upload with Cloudinary
+
 Setup Cloudinary integration
+
 Upload product images securely
+
 Store image URLs in MongoDB
 
 ### 💳 8. Payment Gateway (Stripe)
+
 Integrate Stripe for checkout
+
 Process payments securely
+
 Store order details in MongoDB
 
 ### 🚀 9. Deployment
+
 Deploy frontend on Vercel / Netlify
+
 Deploy backend on Render / Railway
+
 Use MongoDB Atlas for cloud database
 
 ## 🚀 Deployment
+
 The app is deployed and accessible at: Live Demo
+
 To deploy your own version:
 
 ```bash
