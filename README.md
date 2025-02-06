@@ -3,6 +3,7 @@
 A fully responsive e-commerce web application built using the MERN stack, Redux, JWT authentication, and TailwindCSS for modern UI styling.
 
 
+
 ## 🌟 Features
 
 **MERN Stack:** MongoDB, Express, React, Node.js
